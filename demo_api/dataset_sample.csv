@@ -1,0 +1,2 @@
+dataset_id,dataset_name,dataset_comment,created_at,rows,model_ids,lineage,table_path,project_id
+Data01,Records until Feb 20 2024,GPT4 records until Feb 20, 2024,2024-02-20T00:00:00Z,15000,"{modelA,modelB,modelC}","{""parent"": null, ""version"": 1}","/datasets/records_feb_20_2024",PROJ001

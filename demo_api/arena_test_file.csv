@@ -1,0 +1,3 @@
+project_id,user_id,call_id,timestamp,input,output,model,cost,latency,meta,needs_review,correct_output,did_user_correct
+proj123,user001,call001,2024-07-01 08:05:00,input_data_1,output_data_1,modelA,12.5,0.2,{'info': 'sample meta'},True,correct_output_1,False
+proj124,user002,call002,2024-07-02 09:15:00,input_data_2,output_data_2,modelB,15.0,0.3,{'info': 'sample meta'},False,correct_output_2,True
